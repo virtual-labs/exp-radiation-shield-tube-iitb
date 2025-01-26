@@ -11,7 +11,7 @@
 
    {
        "question": "A cryogenic fluid flows through a 35mm diameter tubewhich is concentric with a tube of 90mm diameter, surface emmisivities of inner and outer tube are 0.02 & 0.05 while temperature are 100<sup>o</sup>K & 300<sup>o</sup>K respectively. Find: <br> Steady state temperature attained by the shield. Refer the image in simulation. <br> $$ T_3 = (\\frac{-Q_s(\\frac{1 - \\epsilon_1}{A_1 \\epsilon_1} + \\frac{1}{A_1 F_{13}} + \\frac{1-\\epsilon_3}{A_3 \\epsilon_3})}{\\sigma} + T_1^4)^{1/4} $$",
-       "qid": 1,
+       "qid": 2,
        "option_a": "180.521 <sup>o</sup>K",
        "option_b": "219.205 <sup>o</sup>K",
        "option_c": "279.512 <sup>o</sup>K",
